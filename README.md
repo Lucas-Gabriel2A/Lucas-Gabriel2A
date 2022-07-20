@@ -2,9 +2,8 @@
 
 
 
-- 🔭 Trabalho atualmente com desenvolvimento Front-end
-- 🌱 Estudando Machine Learning ,back-end
-- 👯 Gosto de colaborar com projetos Front-End e Back-End
+- 🔭 Developer FullStack
+- 👯 Colaborando com projetos Front-End e Back-End
 - 📫 Contate-me : lucasgabriel201100@gmail.com
 
 
