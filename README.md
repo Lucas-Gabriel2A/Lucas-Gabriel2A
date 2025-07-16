@@ -60,7 +60,7 @@
 
 ###
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+            
           
 <div align="left">
 <h3 align="left">Languages and Tools:</h3>
