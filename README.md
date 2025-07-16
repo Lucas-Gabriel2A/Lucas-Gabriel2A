@@ -2,14 +2,14 @@
   <img height="150" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucasgabrieldevfullstack/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasgabrieldevfullstack.lucasgabrieldevfullstack&"  />
@@ -79,7 +79,7 @@
 
 <div align="center">
   <br>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucas-Gabriel2A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucas-Gabriel2A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gabriel2A&layout=compact&langs_count=7&theme=dracula"/>
   <br>
 </div>
