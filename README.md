@@ -1,12 +1,12 @@
-<!-- HERO GIF (NÃO ALTERADO) -->
+<!-- HERO GIF (MANTIDO) -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding animation"/>
 </div>
 
-<!-- TÍTULO ANIMADO -->
+<!-- TEXTO DIGITADO (SEM “ESPECIALISTA”) -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Lucas+Gabriel!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Especialista+em+Sistemas+Industriais+%26+IoT;Node.js+%7C+React+%7C+.NET+%7C+Cloud" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6366F1&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Lucas+Gabriel!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Desenvolvimento+de+Sistemas+Web+e+Industriais;Node.js+%7C+React+%7C+.NET+%7C+IoT" 
     alt="Typing SVG" 
   />
 </h1>
@@ -94,42 +94,56 @@ const lucas = {
 
 <hr/>
 
-<!-- STACK -->
-<h2>🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<h4>Frontend</h4>
-<div>
+<!-- FRONTEND -->
+<h3>🎨 Frontend</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 </div>
 
-<h4>Backend</h4>
-<div>
+<br/>
+
+<!-- BACKEND -->
+<h3>⚙️ Backend</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 </div>
 
-<h4>Banco de Dados & Cloud</h4>
-<div>
+<br/>
+
+<!-- DATABASE -->
+<h3>🗄️ Database</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
 </div>
 
-<h4>DevOps & Ferramentas</h4>
-<div>
+<br/>
+
+<!-- DEVOPS -->
+<h3>🚀 DevOps & Cloud</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops"/>
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 </div>
 
-<hr/>
+<br/>
 
 <!-- STATS -->
 <h2>📊 GitHub Stats</h2>
