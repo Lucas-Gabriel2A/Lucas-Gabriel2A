@@ -3,10 +3,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding animation"/>
 </div>
 
-<!-- TEXTO DIGITADO (SEM “ESPECIALISTA”) -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6366F1&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Lucas+Gabriel!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Desenvolvimento+de+Sistemas+Web+e+Industriais;Node.js+%7C+React+%7C+.NET+%7C+IoT" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6366F1&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Lucas+Gabriel!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js+%7C+.NET;Microservi%C3%A7os+%7C+APIs+REST+%7C+Cloud;C%C3%B3digo+limpo+e+performance+em+primeiro+lugar+%E2%9A%A1" 
     alt="Typing SVG" 
   />
 </h1>
