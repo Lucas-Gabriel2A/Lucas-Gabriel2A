@@ -46,54 +46,106 @@
 
 <pre>
 <code>
-const lucas = {
-  localizacao: "Manaus - AM 🇧🇷",
-  cargo: "Full Stack Developer",
-  especialidades: [
-    "APIs REST & Microsserviços",
-    "IoT & Indústria 4.0",
-    "Arquitetura de Software",
-    "Desenvolvimento Frontend"
+const lucasGabriel = {
+  role: "Full Stack Developer",
+  location: "Manaus, Amazonas 🇧🇷",
+  experience: "~4 anos construindo soluções escaláveis",
+  
+  expertise: {
+    frontend: ["React.js", "Next.js", "Vue.js", "Angular", "TypeScript"],
+    backend: ["Node.js", ".NET (C#)", "NestJS", "Express.js", "Python"],
+    database: ["PostgreSQL", "MongoDB", "SQL Server", "Oracle", "MariaDB"],
+    devops: ["Docker", "Kubernetes", "GitLab CI/CD", "Azure DevOps"],
+    specialties: [
+      "🏭 Indústria 4.0 & IoT (MQTT, sensores industriais)",
+      "🚀 Arquitetura de Microserviços",
+      "⚡ APIs RESTful de alta performance",
+      "📊 Processamento de dados em tempo real"
+    ]
+  },
+  
+  achievements: [
+    "✨ Redução de 50% em erros operacionais (Projeto OEE)",
+    "🔧 Implementação de sistemas críticos para Indústria 4.0"
   ],
-  stackPrincipal: ["Node.js", "React", ".NET", "TypeScript"],
-  mindset: "Código limpo, sistemas escaláveis e entrega de valor"
+  
+  methodologies: ["Scrum", "Kanban", "Clean Code", "SOLID"],
+  tools: ["Git", "Jira", "Postman", "Figma", "Notion"],
+  languages: { pt: "nativo", en: "intermediário (B1/B2)" },
+  
+  currentFocus: "Criando sistemas robustos que conectam hardware e software",
+  mindset: "Código limpo, performance e entrega de valor real",
+  
+  contact: {
+    email: "lucasgabriel201100@gmail.com",
+    linkedin: "linkedin.com/in/lucasgabrieldevfullstack",
+    portfolio: "em breve... 🚀"
+  }
 };
+
+console.log("💡 Transformando ideias em código, código em soluções.");
 </code>
 </pre>
 
 <img align="right" height="240" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <hr/>
-
-<!-- EXPERIÊNCIA -->
+<!-- EXPERIÊNCIA PROFISSIONAL -->
 <h2>💼 Experiência Profissional</h2>
 
+<h3>🏢 Instituto Venturus | Full Stack Developer</h3>
 <p>
-  <b>Instituto Venturus</b> — Full Stack Developer<br/>
-  Atuação em projetos de <b>Pesquisa & Desenvolvimento</b> voltados à
-  <b>Indústria 4.0</b>, criando soluções com integração IoT, sensores industriais
-  e processamento de dados em tempo real via <b>MQTT</b>.
+  <i>Desenvolvimento de aplicações industriais e corporativas em projetos de <b>Pesquisa & Desenvolvimento (P&D)</b> voltados à <b>Indústria 4.0</b></i>
 </p>
 
-<ul>
-  <li>🏭 <b>Projeto OEE</b>: automação industrial com redução de <b>50% nos erros operacionais</b></li>
-  <li>📊 <b>Projeto SPGEC</b>: dashboards e APIs escaláveis integradas a múltiplos sensores</li>
-</ul>
+**Stack Principal:** React.js • TypeScript • Node.js • .NET (C#) • PostgreSQL • Oracle • MariaDB • MQTT
 
-<p>
-  <b>MAP Innovation</b> — Frontend Developer<br/>
-  Desenvolvimento de painéis industriais interativos e dashboards em tempo real.
-</p>
+**Responsabilidades:**
+- Arquitetura e implementação de microserviços escaláveis com foco em performance e segurança
+- Criação de APIs RESTful robustas integradas a sensores industriais via MQTT
+- Processamento de dados em tempo real para controle de eficiência e produtividade
+- Participação ativa em metodologias ágeis (Scrum) com sprints, plannings e code reviews
 
-<p>
-  <b>Builderall</b> — Full Stack Developer<br/>
-  Criação de plataformas SaaS de alto tráfego com CI/CD, Docker e arquitetura escalável.
-</p>
+**Cases de Sucesso:**
 
-<br clear="right"/>
+🏭 **Projeto OEE (Overall Equipment Effectiveness)**
+- Desenvolvimento de APIs escaláveis em .NET (C#) para monitoramento de eficiência de equipamentos industriais
+- Implementação de lógica para cálculo de disponibilidade, performance e qualidade
+- Automação da contagem e marcação de downtimes, reduzindo **50% na taxa de erros operacionais**
+- Reconhecido internamente como desenvolvedor com melhor desempenho
 
+📊 **Projeto SPGEC (Sistema de Planejamento e Gestão de Equipamentos)**
+- Desenvolvimento de APIs e dashboards integrados em .NET (C#) e React.js
+- Implementação de Repository Pattern e Dependency Injection para escalabilidade
+- Integrações com múltiplos sensores IoT e otimização de queries em SQL Server
+- Melhoria significativa no tempo de resposta das aplicações
+
+<br/>
+
+<h3>🏢 MAP Innovation | Frontend Developer</h3>
+
+**Stack Principal:** React.js • TypeScript • API RESTful
+
+**Responsabilidades:**
+- Desenvolvimento de painéis industriais interativos e dashboards em tempo real
+- Integração de APIs RESTful com foco em otimização de performance
+- Aplicação de princípios de UI/UX para experiência fluida em interfaces industriais
+- Criação de componentes reutilizáveis e testes automatizados para garantir escalabilidade
+
+<br/>
+
+<h3>🏢 Builderall | Full Stack Developer</h3>
+
+**Stack Principal:** React.js • Node.js • MariaDB • Docker • Kubernetes
+
+**Responsabilidades:**
+- Desenvolvimento de plataformas SaaS voltadas a educação, design e marketing digital
+- Implementação de APIs RESTful com autenticação JWT e controle de acesso baseado em roles
+- Otimização de bancos MariaDB e manutenção de sistemas de alto tráfego
+- Entregas contínuas com CI/CD, Docker e Kubernetes, garantindo estabilidade em produção
+
+<br/>
 <hr/>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <!-- FRONTEND -->
